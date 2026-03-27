@@ -38,7 +38,7 @@ The Process
    •	Customer Analysis: A breakdown proving the Pareto Principle. 20% of customers drove 77% of total revenue.
 
    
-   •	Geographic Breakdown: A deep dive into international growth
+   •	Geographic Breakdown: A deep dive into international growth. Western Europe represents an overwhelming percent of total revenue, even without the UK
 
 
 
