@@ -33,7 +33,8 @@ CREATE TABLE country_region (
 );
 
 -- Load data from CSV
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/transactions.csv'
+-- UPDATE THE PATH BELOW TO YOUR LOCAL CSV LOCATION
+LOAD DATA INFILE 'C:/your_path_here/transactions.csv'
 INTO TABLE transactions
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
@@ -43,7 +44,8 @@ IGNORE 1 ROWS
 Price, `Customer ID`, Country, Revenue, Month, Year, CustomerTier);
 
 -- Region data
-LOAD DATA INFILE 'C:/ProgramData/MySQL/MySQL Server 8.0/Uploads/country_region.csv'
+-- UPDATE THE PATH BELOW TO YOUR LOCAL CSV LOCATION
+LOAD DATA INFILE 'C:/your_path_here/country_region.csv'
 INTO TABLE country_region
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
