@@ -14,7 +14,7 @@ The Process
    •	Pivot Table Validation: I built four detailed Pivot Tables to verify my initial findings on monthly revenue and top-performing products before continuing with the data
 
 
-2. Deep-Dive Analysis (MySQL): I moved the cleaned data into a MySQL database using SQL Workbench to perform complex, multi-layered queries. View the full SQL script here
+2. Deep-Dive Analysis (MySQL): I moved the cleaned data into a MySQL database using SQL Workbench to perform complex, multi-layered queries. (SQL script is available in the file list above).
 
    •	Growth Tracking: I used the LAG window function to calculate Month-over-Month revenue changes. This helped me identify exactly when the business was bringing in the most revenue.
 
@@ -26,7 +26,7 @@ The Process
 
    
 
-3. Interactive Dashboards (Power BI): I turned the SQL outputs into a four-page interactive report. Download the Power BI file here: ./retail_analysis.pbix
+3. Interactive Dashboards (Power BI): I turned the SQL outputs into a four-page interactive report. (Power BI file is available in the file list above).
 
 
    •	Executive Overview: High-level KPIs showing 17.74M in total revenue and global reach.
