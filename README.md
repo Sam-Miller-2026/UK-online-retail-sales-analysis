@@ -14,7 +14,7 @@ The Process
    •	Pivot Table Validation: I built four detailed Pivot Tables to verify my initial findings on monthly revenue and top-performing products before continuing with the data
 
 
-2. Deep-Dive Analysis (MySQL): I moved the cleaned data into a MySQL database using SQL Workbench to perform complex, multi-layered queries. View the full SQL script here: ./retail_analysis.sql
+2. Deep-Dive Analysis (MySQL): I moved the cleaned data into a MySQL database using SQL Workbench to perform complex, multi-layered queries. View the full SQL script here
 
    •	Growth Tracking: I used the LAG window function to calculate Month-over-Month revenue changes. This helped me identify exactly when the business was bringing in the most revenue.
 
